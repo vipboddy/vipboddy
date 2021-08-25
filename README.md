@@ -1,5 +1,1 @@
-<p align="center">
-    <a href="https://github.com/vipboddy">
-      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vipboddy&hide=["issues","prs"]&show_icons=true" />
-    </a>
-</p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=vipboddy&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
